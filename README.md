@@ -9,5 +9,4 @@ The application allows instructors (and faculty advisors) to offer courses of th
 
 ## How To Use
 
-The application is deployed and hosted on firebase. \
-It can be accessed using the following link: https://lms-learningmanagementsystem.web.app/#/
+The application is deployed and hosted on firebase. It can be accessed using the following link: https://lms-learningmanagementsystem.web.app/#/
